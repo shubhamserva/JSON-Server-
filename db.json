@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "Sample Stream",
+      "userId": "105398273256279984119",
+      "id": 2
+    },
+    {
+      "title": "STream2",
+      "description": "LAla stream",
+      "userId": "105398273256279984119",
+      "id": 3
+    }
+  ]
+}
